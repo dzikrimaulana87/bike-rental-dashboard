@@ -52,7 +52,7 @@ To deploy the application to Streamlit Cloud:
 - `requirements.txt`: List of dependencies.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache 2.0 License](LICENSE).
 
 ---
 
